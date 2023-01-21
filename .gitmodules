@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = git@github.com:zebra0303/gitc.git
